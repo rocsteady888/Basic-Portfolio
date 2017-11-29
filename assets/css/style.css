@@ -4,6 +4,7 @@
 	text-align: center;
 }*/
 
+
 .name-header {
 	padding-top: 1rem;
 }
@@ -39,10 +40,37 @@
 }
 
 .professional-link {
-	width: 90px;
+	width: 4.5rem;
 	display: inline-block;
 }
 
 .contact-form {
 	margin-top: 2rem;
+}
+
+.card-body {
+	border-width: 100%;
+	padding: 0px;
+}
+
+.contact-card {
+	border-style: solid;
+	border-color: darkgray;
+	border-width: 2px;
+	height: 220px;
+}
+
+.professional-link {
+	border-style: solid;
+	border-color: pink;
+	border-width: 6px;
+	padding: 5px;
+}
+
+.contact-links {
+	border-width: 80%;
+	border-style: solid;
+	border-color: purple;
+	border-width: 6px;
+	padding: .5rem 1rem;
 }
